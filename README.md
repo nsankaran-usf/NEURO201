@@ -1,2 +1,13 @@
 # NEURO201
-Welcome to the Github page for *NEUR 201: Data analysis and research methods for cellular Neuroscience*. This is a repository where you will find all code related to various in-class coding activities and data analysis assignments. 
+Welcome to the Github repository for *NEUR 201: Data analysis and research methods for cellular Neuroscience*. This repository is where you will find all data-analysis activities that you will complete throughout this course. There are two separate folders: one called *In-class activies* contains code for various exercises we will complete together during lectures, and another called *Assignments* contains the code for data-analysis exercises you will complete on your own as graded assignments. 
+
+You will access all code in a format called *Jupyter notebooks*, which is like an interactive textbook in which you can create, edit, and run chunks of code. You don't need to install anything to access these notebooks! Instead, we will run them on a remote server (called Google Colab). Access the notebooks on Colab by using the buttons below:
+
+[insert button here]
+
+Questions? Get in touch.
+Email nsankaran[at]usfca.edu
+
+License
+This work is under a CC-BY-SA-4.0 license. You are free to use and adapt these resources, but if you generate a derivative of these resources, they should be distributed with a similar license.
+
