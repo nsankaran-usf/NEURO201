@@ -5,6 +5,9 @@ You will access all code in a format called *Jupyter notebooks*, which is like a
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsankaran-usf/NEURO201)
 
+Once you open the link click on any file you have to work on -> File -> Save a Copy in Drive
+It should then open a new colab notebook with the title "Copy of [file name]" and you can start working on your assignments!
+
 Questions? Get in touch.
 Email nsankaran[at]usfca.edu
 
