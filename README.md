@@ -3,11 +3,10 @@ Welcome to the Github repository for *NEUR 201: Data analysis and research metho
 
 You will access all code in a format called *Jupyter notebooks*, which is like an interactive textbook in which you can create, edit, and run chunks of code. You don't need to install anything to access these notebooks! Instead, we will run them on a remote server (called Google Colab). Access the notebooks on Colab by using the buttons below:
 
-[insert button here]
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsankaran-usf/NEURO201)
 
 Questions? Get in touch.
 Email nsankaran[at]usfca.edu
 
 License
 This work is under a CC-BY-SA-4.0 license. You are free to use and adapt these resources, but if you generate a derivative of these resources, they should be distributed with a similar license.
-
