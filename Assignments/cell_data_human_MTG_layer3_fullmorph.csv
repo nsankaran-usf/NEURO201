@@ -1,0 +1,54 @@
+structure__name,structure__acronym,structure__layer,nr__max_euclidean_distance,nr__number_bifurcations,tag__dendrite_type,donor__age,donor__sex,donor__disease_state,donor__race,donor__species
+"middle temporal gyrus",MTG,3,504.253733142046,51,spiny,39 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,420.959981809827,22,aspiny,67 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,199.731729555271,13,aspiny,38 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,920.278293420273,34,spiny,48 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,565.339156002386,34,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,350.406255399429,13,aspiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,324.454163750213,16,aspiny,34 yrs,Female,epilepsy,Black or African American,Homo Sapiens
+"middle temporal gyrus",MTG,3,808.965139347753,78,spiny,67 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,528.139695333498,31,spiny,24 yrs,Female,epilepsy,Hispanic,Homo Sapiens
+"middle temporal gyrus",MTG,3,497.356189190544,5,aspiny,24 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,279.248406639411,10,aspiny,28 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,519.929889706141,70,spiny,30 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,363.420866363023,65,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,780.301172178063,53,spiny,38 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,276.537555793531,6,aspiny,34 yrs,Female,epilepsy,Black or African American,Homo Sapiens
+"middle temporal gyrus",MTG,3,456.478855593838,62,spiny,24 yrs,Female,epilepsy,Hispanic,Homo Sapiens
+"middle temporal gyrus",MTG,3,1032.01686952598,20,spiny,61 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,465.974339594886,25,aspiny,48 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,432.453153272629,4,aspiny,38 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,524.667463618814,44,spiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,521.040114302536,46,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,610.121891269326,73,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,891.125006100541,73,spiny,33 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,462.977767118606,18,aspiny,23 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,1098.39788756225,51,spiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,1046.36559273199,65,spiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,844.416390622222,70,spiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,676.914759843453,67,spiny,67 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,496.591279841118,40,spiny,28 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,568.771670104322,57,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,575.554244817715,43,spiny,33 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,481.626646346369,23,aspiny,23 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,574.428357413115,48,spiny,28 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,528.308015360178,64,spiny,24 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,548.378464486535,50,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,590.399353300501,55,spiny,33 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,1020.09621619346,17,spiny,38 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,865.612987257302,66,spiny,41 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,810.015337882709,34,spiny,38 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,748.063668495536,61,spiny,41 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,569.588207930615,50,spiny,33 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,247.23991190443,25,aspiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,400.824109565318,38,spiny,48 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,496.779715382321,56,spiny,67 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,426.018351810623,23,aspiny,23 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,466.542935690661,14,spiny,38 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,471.341628270589,13,aspiny,65 yrs,Male,epilepsy,Asian,Homo Sapiens
+"middle temporal gyrus",MTG,3,361.908387617087,16,aspiny,35 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,500.505308841095,69,spiny,24 yrs,Female,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,850.967961240069,72,spiny,33 yrs,Female,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,518.118474225625,27,spiny,61 yrs,Male,epilepsy,unknown,Homo Sapiens
+"middle temporal gyrus",MTG,3,389.401972546378,43,spiny,37 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
+"middle temporal gyrus",MTG,3,798.078925105468,112,spiny,48 yrs,Male,epilepsy,White or Caucasian,Homo Sapiens
