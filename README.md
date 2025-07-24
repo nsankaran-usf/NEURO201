@@ -10,9 +10,7 @@ Once you open the link, click on any file you have to work on<br>
 &#8595;
 
 File &#8594; Save a Copy in Drive<br>
-![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033143.png)
-
-<br>
+![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033143.png)<br>
 &#8595;
 
 It should then open a new colab notebook with the title "Copy of [file name]" and you can start working on your assignments!<br>
