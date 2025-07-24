@@ -5,15 +5,15 @@ You will access all code in a format called *Jupyter notebooks*, which is like a
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsankaran-usf/NEURO201)
 
-Once you open the link, click on any file you have to work on 
+Once you open the link, click on any file you have to work on<br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20032913.png)
 &#8595;
 
-File &#8594; Save a Copy in Drive
+File &#8594; Save a Copy in Drive<br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033143.png)
 &#8595;
 
-It should then open a new colab notebook with the title "Copy of [file name]" and you can start working on your assignments!
+It should then open a new colab notebook with the title "Copy of [file name]" and you can start working on your assignments!<br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033241.png)
 
 Questions? Get in touch.
