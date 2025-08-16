@@ -5,15 +5,15 @@ You will access all code in a format called *Jupyter notebooks*, which is like a
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsankaran-usf/NEURO201)
 
-Once you open the link, click on the file you want to work on (e.g., a particular assignment or in-class coding activity)<br>
+Once you click on the button, the window shown below will open. Select the file you want to work on (e.g., a particular assignment or in-class coding activity). This will open the notebook. <br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20032913.png)
 &#8595;
 
-File &#8594; Save a Copy in Drive<br>
+Next, select File &#8594; Save a Copy in Drive<br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033143.png)<br>
 &#8595;
 
-A new notebook should then open with the title "Copy of [file name]" and you can start working on your assignment!<br>
+A new notebook should then open with the title "Copy of [file name]". This copy of the notebook now "lives" on your google drive, and you can now begin working on the assignment or activity by making edits to this copy of the notebook!<br>
 ![Alt text](/ReadME_pictures/Screenshot%202025-07-24%20033241.png)
 
 Questions? Get in touch.
